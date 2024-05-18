@@ -1,7 +1,7 @@
-import 'package:app_libros/models/libro.dart';
-import 'package:app_libros/widgets/textoprincipal.widget.dart';
-import 'package:app_libros/widgets/textparrafo.widget.dart';
-import 'package:app_libros/widgets/textsecundario.widget.dart';
+import 'package:christopherduarte_examen1/models/libro.dart';
+import 'package:christopherduarte_examen1/widgets/textoprincipal.widget.dart';
+import 'package:christopherduarte_examen1/widgets/textparrafo.widget.dart';
+import 'package:christopherduarte_examen1/widgets/textsecundario.widget.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 

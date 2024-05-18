@@ -21,7 +21,7 @@ class TextParrafo extends StatelessWidget {
       texto,
       textAlign: textAlign,
       softWrap: true,
-      style: GoogleFonts.sourceSansPro(
+      style: GoogleFonts.sourceCodePro(
           fontSize: 13, color: colorTexto, fontWeight: fontWeight),
     );
   }

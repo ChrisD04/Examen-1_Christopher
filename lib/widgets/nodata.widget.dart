@@ -1,4 +1,4 @@
-import 'package:app_libros/widgets/textparrafo.widget.dart';
+import 'package:christopherduarte_examen1/widgets/textparrafo.widget.dart';
 import 'package:flutter/material.dart';
 
 

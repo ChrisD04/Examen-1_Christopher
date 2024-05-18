@@ -1,5 +1,5 @@
-import 'package:app_libros/models/libro.dart';
-import 'package:app_libros/models/villanos.dart';
+import 'package:christopherduarte_examen1/models/libro.dart';
+import 'package:christopherduarte_examen1/models/villanos.dart';
 import 'package:flutter/services.dart';
 import 'dart:async';
 import 'dart:io';

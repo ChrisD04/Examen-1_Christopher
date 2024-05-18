@@ -3,8 +3,8 @@
 //     final libros = librosFromJson(jsonString);
 
 import 'dart:convert';
+import 'package:christopherduarte_examen1/models/villanos.dart';
 
-import 'package:app_libros/models/villanos.dart';
 
 Libros librosFromJson(String str) => Libros.fromJson(json.decode(str));
 
